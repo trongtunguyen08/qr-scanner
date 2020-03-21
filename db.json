@@ -1,0 +1,18 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Nguyễn Trọng Tú",
+        "location": "Phường Xuân Khánh, TP. Cần Thơ",
+        "phone": "0869297294",
+        "email": "nttu@gmail.com"
+      },
+      {
+          "id": 2,
+          "name": "Tăng Thị Trúc Mãi",
+          "location": "Phường An Khánh, TP. Cần Thơ",
+          "phone": "0932456789",
+          "email": "tttmai@gmail.com"
+      }
+    ]
+}
