@@ -32,7 +32,7 @@ export default class Details extends Component {
             })
         })
         .catch(error => {
-            console.log(error)
+            alert('Không thể tải dữ liệu')
         })
   }
 
